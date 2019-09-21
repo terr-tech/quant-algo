@@ -1,4 +1,4 @@
-# quant-algo
+# quant-algo-references
 
 *For full app please visit: www.terr.tech
 
