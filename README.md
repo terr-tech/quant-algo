@@ -10,10 +10,7 @@ Readme will be periodically updated as I explore more mathematical optimization 
 The file titled: axitrader.py is a file containing the up-to-date algo-trading algorithm
 i currently use on axitrader. The average return is around 5+/-2% over the past 4 months.
 
-updated
-newbieeee!
-branched newbie!
-
+working directory
 
 Once again, welcome!
 Terence Su
