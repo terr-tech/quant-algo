@@ -12,6 +12,8 @@ i currently use on axitrader. The average return is around 5+/-2% over the past 
 
 updated
 newbieeee!
+branched newbie!
+
 
 Once again, welcome!
 Terence Su
